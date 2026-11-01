@@ -24,5 +24,5 @@ A delivery platform for university students. They order from the Harar and Dire 
 
 Open to junior backend / full-stack work, internships, and small freelance projects.
 
-- Upwork: [my profile]([https://www.upwork.com/freelancers/~YOUR-PROFILE-ID](https://www.upwork.com/freelancers/~0191f91e607d8cfce6))
+- Upwork: [my profile](https://www.upwork.com/freelancers/~0191f91e607d8cfce6)
 - Email: [kumerayared5@gmail.com](mailto:kumerayared5@gmail.com)
